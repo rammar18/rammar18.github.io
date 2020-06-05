@@ -1,2 +1,3 @@
 name: Rafi Ammar
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
