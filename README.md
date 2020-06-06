@@ -39,3 +39,5 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 Reference
 - https://jekyllrb.com/docs/structure/
 - http://jmcglone.com/guides/github-pages/
+- https://help.github.com/en/github/getting-started-with-github/set-up-git
+- https://github.com/jmcglone/jmcglone.github.io

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Rafi Ammar, Hello World!"
+title: "Hello World!"
 date: 2020-06-05
 ---
 
